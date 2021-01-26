@@ -1,0 +1,8 @@
+111	Bananas	3.25
+222	Apple	2.99
+333	Grapes	4.72
+222	Apple	2.99
+435	Meat	Steak	11.99	2
+654	Dairy	Milk	2.99	2
+725	Carrots	3.99
+435	Meat	Roast Beef	13.99	4
